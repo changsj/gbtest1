@@ -39,7 +39,10 @@ if (isAwesome){
 ```
 
 
-第一次编辑，名为 commit1
+第一次编辑，名为 commit1，未push
+
+
+第二次编辑，名为 commit2 随后将 push
 
 
 
